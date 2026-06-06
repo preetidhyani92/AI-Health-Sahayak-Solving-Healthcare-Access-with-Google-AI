@@ -1,8 +1,6 @@
 # AI-Health-Sahayak-Solving-Healthcare-Access-with-Google-AI
-AI Health Sahayak: A Google AI-Powered Multilingual Healthcare Assistant for Rural and Small-Town India
-# AI Health Sahayak – Solving Healthcare Access with Google AI
 
-## Project Title
+## Project Title ##
 
 **AI Health Sahayak: A Google AI-Powered Multilingual Healthcare Assistant for Rural and Small-Town India**
 
