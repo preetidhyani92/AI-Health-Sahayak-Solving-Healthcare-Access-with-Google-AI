@@ -1,59 +1,67 @@
-# AI-Health-Sahayak-Solving-Healthcare-Access-with-Google-AI
+## SehatMap AI – Smart Healthcare Chatbot and Geo Map for Kotdwara, Uttarakhand##
 
-## Project Title ##
+## Builder Name: Preeti Dhyani
+** 
+## Location: Kotdwara, Uttarakhand, India
 
-**AI Health Sahayak: A Google AI-Powered Multilingual Healthcare Assistant for Rural and Small-Town India**
+Problem Identified:
+I live in Kotdwara, Uttarakhand, where many people face health-related challenges because adequate hospitals, specialist doctors, emergency support, and timely medical guidance are not always easily available. In nearby hilly and semi-urban areas, people often struggle to find the nearest hospital, clinic, pharmacy, ambulance service, or basic first-aid guidance during urgent situations.
 
-## Problem Statement
+Solution:
+I propose to build “SehatMap AI”, an AI-powered healthcare support chatbot and geo-map platform using Google AI services. The solution will help people in Kotdwara quickly find nearby hospitals, clinics, pharmacies, diagnostic centres, blood banks, ambulance contacts, and emergency routes.
 
-Millions of people in India, especially in tier-2 cities and rural areas, struggle to access quality healthcare efficiently. Patients often travel long distances without knowing which hospital or department they need. Many cannot clearly explain their symptoms due to language barriers or limited health literacy, resulting in long waiting times and unnecessary overcrowding in hospitals.
+How It Works:
 
-These challenges waste valuable time for both patients and healthcare providers and can delay critical treatment.
+1. AI Healthcare Chatbot:
+   The chatbot will be built using Google AI Studio and Gemini API. Users can ask questions like:
 
-## Our Solution
+* “Where is the nearest hospital?”
+* “What should I do in case of fever?”
+* “Find a pharmacy near me.”
+* “Which clinic is open now?”
+* “How can I reach the nearest emergency centre?”
 
-AI Health Sahayak is an intelligent assistant powered by Google AI that helps citizens navigate healthcare before they reach the hospital.
+The chatbot will provide simple health guidance, emergency steps, and nearby medical facility suggestions. It will clearly mention that it is not a replacement for a doctor and users should contact medical professionals in serious cases.
 
-The platform allows users to describe their symptoms through text or voice in Hindi or English. Using Google's Gemini AI, the system understands the user's concerns and provides easy-to-understand guidance, suggesting the most appropriate medical department while clearly stating that it is not a medical diagnosis.
+2. Geo Map Feature:
+   Using Google Maps Platform and Places API, the app will show healthcare locations on a map. It will display:
 
-The application then uses Google Maps to identify nearby hospitals and estimate travel time. It can also generate a concise medical summary that patients can share with doctors, reducing consultation time and improving communication.
+* Hospitals
+* Clinics
+* Pharmacies
+* Diagnostic labs
+* Ambulance services
+* Distance from user location
+* Directions and travel route
+* Contact details if available
 
-Additionally, the platform provides medicine reminders and follow-up notifications, helping patients continue their treatment effectively.
+3. Local Language Support:
+   The chatbot can support both English and Hindi so that local people, elderly users, and rural citizens can use it comfortably.
 
-## Google AI Technologies Used
+Google AI Services Used:
 
-* Gemini API for natural language understanding and conversational assistance
-* Vertex AI for model deployment and scalability
-* Google Maps Platform for hospital discovery and navigation
-* Speech-to-Text for voice input
-* Text-to-Speech for accessible multilingual responses
+* Google AI Studio
+* Gemini API
+* Google Maps Platform
+* Places API
+* Google Cloud / Firebase for hosting and database
+* Vertex AI for future improvement and analytics
 
-## How It Works
+Target Users:
 
-1. User opens the application.
-2. User speaks or types symptoms.
-3. Gemini AI analyzes the information.
-4. The system recommends the relevant medical department.
-5. Google Maps identifies nearby hospitals.
-6. The application generates a patient summary.
-7. Reminder notifications are scheduled for medicines and follow-up visits.
+* Residents of Kotdwara
+* Villagers from nearby areas
+* Elderly people
+* Tourists visiting Uttarakhand
+* Patients needing quick medical support
+* Families searching for emergency healthcare help
 
-## Expected Impact
+Impact:
+SehatMap AI can reduce confusion during medical emergencies by helping people find healthcare support faster. It can save time, improve awareness, and make healthcare access easier for people in Kotdwara and nearby regions. The solution uses Google AI to solve a real local problem and can later be expanded to other small towns and hilly areas of Uttarakhand.
 
-* Reduce unnecessary hospital crowding
-* Save time for doctors and patients
-* Improve healthcare accessibility in underserved regions
-* Support multilingual communication
-* Enable better digital healthcare experiences
+Why This Project Matters:
+Healthcare access is a serious local issue in many small towns and hilly regions. By combining AI chatbot support with a live geo-map, SehatMap AI can become a simple, practical, and life-supporting digital tool for the community.
 
-## Future Enhancements
+Conclusion:
+As a builder from Kotdwara, Uttarakhand, I, Preeti Dhyani, want to use Google AI tools to solve a real local problem. SehatMap AI is designed to help people find medical support quickly, get basic health guidance, and navigate to nearby healthcare facilities with confidence.
 
-* Integration with government health schemes
-* Electronic Health Record support
-* AI-powered risk prioritization
-* Telemedicine integration
-* Offline mode for low-connectivity areas
-
-## Vision
-
-Our goal is to leverage Google AI to make healthcare guidance accessible, understandable, and inclusive for every citizen, regardless of language or location.
