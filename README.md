@@ -1,7 +1,7 @@
-## SehatMap AI – Smart Healthcare Chatbot and Geo Map for Kotdwara, Uttarakhand##
+## SehatMap AI – Smart Healthcare Chatbot and Geo Map for Kotdwara, Uttarakhand ##
 
 ## Builder Name: Preeti Dhyani
-** 
+
 ## Location: Kotdwara, Uttarakhand, India
 
 Problem Identified:
